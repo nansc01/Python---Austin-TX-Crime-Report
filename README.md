@@ -4,7 +4,11 @@ You are asked to write a simple python program what allows public to query and v
 https://data.austintexas.gov/Public-Safety/APD-Incident-Extract-2010/4c6h-tv2y 
  
  
-Task​ ​A:  1-​ ​you​ ​are​ ​to​ ​use​ ​pandas​ ​to​ ​read​ ​the​ ​csv​ ​data​ ​file.​ ​​[30] 2-​ ​After​ ​reading​ ​the​ ​file,​ ​change​ ​the​ ​column​ ​names​ ​in​ ​the​ ​dataframe to:​ ​"id",​ ​"crime",​ ​"date",​ ​"time",​ ​"ltype",​ ​"address",​ ​"lng",​ ​"lat",​ ​"loc".​ ​​[20] 3-​ ​We​ ​will​ ​only​ ​need​ ​crime,​ ​and​ ​time​ ​columns​ ​--​ ​drop​ ​all​ ​other​ ​columns from​ ​the​ ​data​ ​frame.​ ​​[20] 
+Task​ ​A:  1-​ ​you​ ​are​ ​to​ ​use​ ​pandas​ ​to​ ​read​ ​the​ ​csv​ ​data​ ​file.​ ​​[30] 
+
+2-​ ​After​ ​reading​ ​the​ ​file,​ ​change​ ​the​ ​column​ ​names​ ​in​ ​the​ ​dataframe to:​ ​"id",​ ​"crime",​ ​"date",​ ​"time",​ ​"ltype",​ ​"address",​ ​"lng",​ ​"lat",​ ​"loc".​ ​​[20] 
+
+3-​ ​We​ ​will​ ​only​ ​need​ ​crime,​ ​and​ ​time​ ​columns​ ​--​ ​drop​ ​all​ ​other​ ​columns from​ ​the​ ​data​ ​frame.​ ​​[20] 
  
  
 Task​ ​B:  Report​ ​the​ ​top​ ​5​ ​most​ ​common​ ​crime​ ​type​ ​along​ ​with​ ​the​ ​number​ ​of occurrences​ ​in​ ​the​ ​data​ ​set.​ ​​[60] 
